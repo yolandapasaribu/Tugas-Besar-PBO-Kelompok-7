@@ -22,6 +22,13 @@ Program Pendataan dan peminjaman buku pada perpustakaan, merupakan program yang 
 4. class peminjaman terdapat modul Constructor
 5. Terdapat Objek baru dataMhs pada class peminjaman
 
+## Cara menggunakan
+1. Buka file menggunakan Text Editor Visual Studio Code
+2. Install Exstension Code Runner (apabila belum tersedia extension Code Runner)
+3. Lakukan install Package pada terminal dengan perintah npm install -prompt sync
+4. Run program dengan perintah node Buku.js
+
+
 <img src = "https://github.com/yolandapasaribu/Tugas-Besar-PBO-Kelompok-7/blob/main/Output.gif">
 
 ## Package Yang Digunakan
